@@ -41,6 +41,7 @@ if(have_posts()) :
 				}
 			?>
 
+
 			
 		</article>
 	<?php endwhile;
